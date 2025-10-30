@@ -27,7 +27,7 @@ To build a professional salary sheet in Excel that calculates employee earnings 
 
 ## 📸 Salary Sheet Preview
 
-![Automated Salary Sheet](https://github.com/aryanrajput16721/automated-salary-sheet-excel/blob/main/Automated-salary-sheet-Msexcel.png?raw=true)
+![Automated Salary Sheet](https://github.com/aryanrajput16721/automated-salary-sheet-excel/blob/main/salary-sheet.png?raw=true)
 
 > This Excel sheet calculates HRA, DA, TA, Conveyance, Gross Salary, Overtime, PF, ESI, and Net Pay automatically.
 
