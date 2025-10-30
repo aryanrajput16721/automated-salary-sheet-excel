@@ -25,11 +25,12 @@ To build a professional salary sheet in Excel that calculates employee earnings 
 - Included overtime logic based on hours and rate
 - Designed layout for clarity and HR usability
 
-## 📸 Sheet Preview
+## 📸 Salary Sheet Preview
 
-![Salary Sheet Screenshot](https://github.com/your-username/your-repo-name/blob/main/salary-sheet-screenshot.png?raw=true)
+![Automated Salary Sheet](https://github.com/aryanrajput16721/automated-salary-sheet-excel/blob/main/Automated-salary-sheet-Msexcel.png?raw=true)
 
-> The sheet includes columns for Emp ID, Name, Designation, Salary Breakdown, Overtime, and Net Pay.
+> This Excel sheet calculates HRA, DA, TA, Conveyance, Gross Salary, Overtime, PF, ESI, and Net Pay automatically.
+
 
 ## 🔍 Insights
 
